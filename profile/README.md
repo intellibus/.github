@@ -2,7 +2,7 @@
 
 > [Open a PR & get a Personalized Open Source Universe T-Shirt 👕!](https://github.com/intellibus/approach/blob/main/REWARDS.md)
 
-![Open Source Universe Projects](../assets/Projects.png)
+![Open Source Universe Projects](./assets/Projects.png)
 
 ## Projects you can use today
 
